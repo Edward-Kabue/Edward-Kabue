@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edward-Kabue
 - 👀 I’m interested in Fullstack web development
-- 🌱 I’m currently learning ... 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN
 - 📫 How to reach me ...
 
 <!---
