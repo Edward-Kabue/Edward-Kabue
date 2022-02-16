@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Edward-Kabue
-- 👀 I’m interested in Fullstack web development
-- 🌱 I’m currently learning MERN
-- 📫 How to reach me ...
+- 👀 Fullstack web developer
+
 
 <!---
 Edward-Kabue/Edward-Kabue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
