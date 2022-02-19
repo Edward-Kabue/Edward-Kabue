@@ -9,8 +9,11 @@ const Edward = {
   status: ['Currently learning and looking for a new job opportunity]
 }
  ```
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edward-Kabue&theme=radical)
-<!---
-Edward-Kabue/Edward-Kabue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Edward-Kabue)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edward-Kabue)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Edward-Kabue&show_icons=true)  
+
+
