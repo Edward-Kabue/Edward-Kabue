@@ -2,17 +2,13 @@
 <img align='right' src="hhttps://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230">
 <p><em>Remote Full-stack web developer ready for adventure</em></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)]()
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)]()
-[![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)]()
-
 ### A little more about me...
 
 ```javascript
 const Edward = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   code: [JavaScript, React, Redux,Semantic UI, Bootstrap,
-  Tailwind CSS, python],
+  Tailwind CSS, Python],
   challenge: "I am honing my React skills and picking up Vue",
   funFacts: ['I have 3+ years of remote work experience with devs
   from all over the world',
