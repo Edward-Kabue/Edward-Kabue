@@ -10,9 +10,8 @@ const Edward = {
   code: [JavaScript, React, Redux,Semantic UI, Bootstrap,
   Tailwind CSS, Python],
   challenge: "I am honing my React skills and picking up Vue",
-  funFacts: ['I have 3+ years of remote work experience with devs
-  from all over the world',
-  'my tiny chihuahua dog is ready to woof at the right offer']
+  funFacts: ['I have 3+ years of  work experience with devs
+  from all over the world',]
 }
 ```
 
@@ -31,10 +30,11 @@ python       10 hrs          ████████████████░
 
 ## Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 ## Tools:
 
@@ -43,5 +43,4 @@ python       10 hrs          ████████████████░
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+
