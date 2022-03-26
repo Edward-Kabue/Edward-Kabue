@@ -1,6 +1,6 @@
 <h2> Hi, I'm Edward! <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="70"></h2>
 <img align='right' src="hhttps://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230">
-<p><em>Remote Full-stack web developer ready for adventure</em></p>
+<p><em>Full-stack web developer ready for adventure</em></p>
 
 ### A little more about me...
 
