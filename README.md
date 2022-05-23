@@ -19,10 +19,6 @@ const Edward = {
 
 <!--START_SECTION:waka-->
 
-```text
-JavaScript   14 hrs 18 mins  ████████████████████████▓
-python       10 hrs          ████████████████░░░░░░░░░
-```
 
 <!--END_SECTION:waka-->
 
