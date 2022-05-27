@@ -7,7 +7,7 @@
 ```javascript
 const Edward = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [JavaScript, React, Redux, php, symfony Bootstrap,
+  code: [JavaScript, React, Redux, Php, Symfony Bootstrap,
   Tailwind CSS, Python],
   challenge: "I am honing my React skills and picking up Vue",
   funFacts: ['I have 3+ years of  work experience with devs
