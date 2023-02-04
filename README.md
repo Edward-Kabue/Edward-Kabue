@@ -10,7 +10,7 @@ const Edward = {
   code: [JavaScript, React, Redux, Php, Symfony Bootstrap,
   Tailwind CSS, Python],
   challenge: "I am honing my React skills and picking up Vue",
-  funFacts: ['I have 3+ years of  work experience with devs
+  funFacts: ['I have 4+ years of  work experience with devs
   from all over the world',]
 }
 ```
