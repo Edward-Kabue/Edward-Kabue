@@ -7,7 +7,7 @@
 ```javascript
 const Edward = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [JavaScript, React,Next js,Php,Laravel, Python, Frappe],
+  code: [JavaScript, React,Next js, Python,Django, Frappe],
   funFacts: ['I have 4+ years of  work experience with devs
   from all over the world',]
 }
