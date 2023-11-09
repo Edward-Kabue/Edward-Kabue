@@ -8,7 +8,7 @@
 const Edward = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   code: [JavaScript, React,Next js, Python, Frappe, Laravel, Symfony],
-  funFacts: ['I have 4+ years of  work experience with devs
+  funFacts: ['I have 6+ years of  work experience with devs
   from all over the world',]
 }
 ```
