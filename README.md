@@ -16,10 +16,10 @@ $Edward ='{
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira) <br />
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) <br />
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes) <br />
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
+![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira) 
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) 
 
 
