@@ -4,31 +4,22 @@
 
 ### A little more about me...
 
-```javascript
-const Edward = {
-  lookingFor: "Back-end developer" || "Full-stack web developer",
-  code: [ Frappe, Laravel, Flutter],
-  funFacts: ['I have 6+ years of  work experience with devs
-  from all over the world ideveloping and implementing ERP systems and a host of other specialized systems',]
-}
+```Php
+$Edward ='{
+  "lookingFor": ["Back-end developer", "Full-stack web developer"],
+  "code": ["Frappe", "Laravel", "Flutter"],
+  "funFacts": ["I have  6+ years of work experience with devs from all over the world ideveloping
+    and implementing ERP systems and a host of other specialized systems"]
+}';
 ```
->
-
-## Languages
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira) <br />
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) <br />
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes) <br />
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 
 
