@@ -7,7 +7,7 @@
 ```Php
 $Edward ='{
   "lookingFor": ["Back-end developer", "Full-stack web developer"],
-  "code": ["Frappe", "Laravel", "Flutter"],
+  "code": ["Frappe", "Laravel", "Node js"],
   "funFacts": ["I have  6+ years of work experience with devs from all over the world developing
     and implementing ERP systems and a host of other specialized systems"]
 }';
